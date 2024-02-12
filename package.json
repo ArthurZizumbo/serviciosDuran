@@ -14,6 +14,7 @@
   "dependencies": {
     "@nuxt/ui": "^2.13.0",
     "@pinia/nuxt": "^0.5.1",
+    "@popperjs/core": "^2.11.8",
     "nuxt": "^3.10.1",
     "pinia": "^2.1.7",
     "vue": "^3.4.16",
@@ -24,6 +25,7 @@
     "@nuxt/types": "^2.17.3",
     "@nuxt/typescript-build": "^3.0.2",
     "@pinia-plugin-persistedstate/nuxt": "^1.2.0",
+    "@samk-dev/nuxt-vcalendar": "^1.0.2",
     "@types/node": "^20.11.16",
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "@typescript-eslint/parser": "^6.21.0",
