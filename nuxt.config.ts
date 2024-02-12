@@ -2,12 +2,13 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   css: [
-    '@/assets/css/main.css'
+    // '@/assets/css/main.css'
   ],
   modules: [
     '@nuxt/ui', 
     '@pinia/nuxt',
     '@pinia-plugin-persistedstate/nuxt',
+    '@samk-dev/nuxt-vcalendar'
   ],
   plugins: [
   ]
