@@ -2,10 +2,10 @@
   <nav class="navbar">
     <div class="logo">
       <NuxtLink to="/">
-        <img
+        <!-- <img
           src="logo.png"
           alt="Logo"
-        >
+        > -->
       </NuxtLink>
     </div>
 

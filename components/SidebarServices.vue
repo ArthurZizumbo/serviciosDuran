@@ -28,22 +28,22 @@ const menuItems = [
   {
     label: 'En Cotización',
     name: 'i-ic-round-shopping-cart-checkout',
-    to: '/serviciosMenu/cotizacion'
+    to: '/serviciosHome/cotizacion'
   },
   {
     label: 'Agendar',
     name: 'i-ic-baseline-calendar-month',
-    to: '/serviciosMenu/agendado'
+    to: '/serviciosHome/agendado'
   },
   {
     label: 'Facturado',
     name: 'i-ic-sharp-document-scanner',
-    to: '/serviciosMenu/facturado'
+    to: '/serviciosHome/facturado'
   },
   {
     label: 'Pagado',
     name: 'i-ic-sharp-paid',
-    to: '/serviciosMenu/pagado'
+    to: '/serviciosHome/pagado'
   }
 ];
 </script>
